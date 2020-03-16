@@ -1,0 +1,162 @@
+body{
+	background: #008B8B;
+}
+
+#left{
+	background:	#E0FFFF;
+	width:250px;
+	height:800px;
+	position: relative;
+	top: 0px;
+	left: 200px;
+	float: left;
+}
+
+#left_pic1{
+	background-image:url("pic15.jpg");
+	background-repeat: no-repeat;
+	background-size:230px 220px;
+	background-position:0px 0px;
+	
+	width: 350px;
+	height: 320px;
+	position:relative;
+	top: 10px;
+	left: 10px;
+}
+
+#left_pic2{
+	background-image:url("pic16.jpg");
+	background-repeat: no-repeat;
+	background-size:230px 150px;
+	background-position:0px 0px;
+	
+	width: 350px;
+	height: 250px;
+	position:relative;
+	top: -80px;
+	left: 10px;
+}
+
+#left_text1{
+	width: 230px;
+	height: 50px;
+	position:relative;
+	top: -170px;
+	left: 10px;
+	font-family:Calibri;
+	font-size:32px;
+	color:	#FF7300;
+}
+
+#left_text2{
+	width: 230px;
+	height: 330px;
+	position:relative;
+	top: -130px;
+	left: 10px;
+	font-family:Calibri;
+	font-size:24px;
+	color:	#FF9900;
+}
+
+#middle{
+	background:	#E0FFFF;
+	width:600px;
+	height:800px;
+	position: relative;
+	top: 0px;
+	left: 210px;
+	float: left;
+}
+
+#middle_pic1{
+	background-image:url("pic14.png");
+	background-repeat: no-repeat;
+	background-size: 600px 450px;
+	background-position: 0px 0px;
+	
+	width: 580px;
+	height: 450px;
+	position: relative;
+	top: 10px;
+	left: 10px;
+	float: left;
+	text-align: center;
+}
+
+#middle_pic2{
+	background-image:url("pic13.jpg");
+	background-repeat: no-repeat;
+	background-size:360px 220px;
+	background-position:0px 0px;
+	
+	width: 370px;
+	height: 320px;
+	position: relative;
+	top: 45px;
+	left: 10px;
+	float: left;
+}
+
+#middle_pic3{
+	background-image:url("pic11.png");
+	background-repeat: no-repeat;
+	background-size: 200px 275px;
+	background-position: 0px 0px;
+
+	
+	width: 230px;
+	height: 300px;
+	position: relative;
+	top: 45px;
+	left: 15px;
+	float: left;
+}
+
+#right{
+	background:	#E0FFFF;
+	width: 250px;
+	height: 800px;
+	position: relative;
+	top: 0px;
+	left: 220px;
+	float: left;
+}
+
+#right_text1{
+	width: 230px;
+	height: 50px;
+	position:relative;
+	top: 10px;
+	left: 10px;
+	font-family:Calibri;
+	font-size:32px;
+	color:	#FF7300;
+}
+
+#right_text2{
+	width: 230px;
+	height: 350px;
+	position:relative;
+	top: 50px;
+	left: 10px;
+	font-family:Calibri;
+	font-size:24px;
+	color:	#FF9900;
+}
+
+#right_pic{
+	background-image:url("pic12.png");
+	background-repeat: no-repeat;
+	background-size: 230px 350px;
+	background-position: 0px 0px;
+	
+	width: 330px;
+	height: 400px;
+	position: relative;
+	top: 30px;
+	left: 10px;
+	float: left;
+}
+

@@ -1,0 +1,169 @@
+body{
+	background: #FF9999;
+}
+
+#left{
+	background:#FFFDD0;
+	width:250px;
+	height:800px;
+	position: relative;
+	top: 0px;
+	left: 200px;
+	float: left;
+}
+
+
+
+#left_pic{
+	background-image:url("pic31.jpg");
+	background-repeat: no-repeat;
+	background-size: 230px 380px;
+	background-position: 0px 0px;
+	
+	width: 330px;
+	height: 380px;
+	position: relative;
+	top: 10px;
+	left: 10px;
+	float: left;
+}
+
+
+
+
+#left_text1{
+	width: 230px;
+	height: 50px;
+	position:relative;
+	top: 50px;
+	left: 20px;
+	font-family:Calibri;
+	font-size:32px;
+	color:	#DA70D6;
+}
+
+#left_text2{
+	width: 230px;
+	height: 330px;
+	position:relative;
+	top: 120px;
+	left: 20px;
+	font-family:Calibri;
+	font-size:24px;
+	color: #B399FF;
+}
+
+#middle{
+	background:#FFFDD0;
+	width:600px;
+	height:800px;
+	position: relative;
+	top: 0px;
+	left: 210px;
+	float: left;
+}
+
+#middle_pic1{
+	background-image:url("pic32.jpg");
+	background-repeat: no-repeat;
+	background-size: 700px 450px;
+	background-position: 0px 0px;
+	
+	width: 580px;
+	height: 450px;
+	position: relative;
+	top: 10px;
+	left: 10px;
+	float: left;
+	text-align: center;
+}
+
+#middle_pic2{
+	background-image:url("pic33.jpg");
+	background-repeat: no-repeat;
+	background-size:350px 220px;
+	background-position:0px 0px;
+	
+	width: 370px;
+	height: 320px;
+	position: relative;
+	top: 40px;
+	left: 10px;
+	float: left;
+}
+
+#middle_pic3{
+	background-image:url("pic34.jpg");
+	background-repeat: no-repeat;
+	background-size: 200px 310px;
+	background-position: 0px 0px;
+
+
+	
+	width: 200px;
+	height: 330px;
+	position: relative;
+	top: 30px;
+	left: 15px;
+	float: left;
+}
+
+#right{
+	background: #FFFDD0;
+	width: 250px;
+	height: 800px;
+	position: relative;
+	top: 0px;
+	left: 220px;
+	float: left;
+}
+
+#right_text1{
+	width: 230px;
+	height: 50px;
+	position:relative;
+	top: -20px;
+	left: 20px;
+	font-family: Calibri;
+	font-size: 32px;
+	color: #DA70D6;
+}
+
+#right_text2{
+	width: 230px;
+	height: 350px;
+	position:relative;
+	top: 20px;
+	left: 20px;
+	font-family:Calibri;
+	font-size:24px;
+	color: #B399FF;
+}
+
+#right_pic1{
+	background-image:url("pic36.jpg");
+	background-repeat: no-repeat;
+	background-size:230px 160px;
+	background-position:0px 0px;
+	
+	width: 350px;
+	height: 320px;
+	position:relative;
+	top: 10px;
+	left: 10px;
+}
+
+#right_pic2{
+	background-image:url("pic35.jpg");
+	background-repeat: no-repeat;
+	background-size:230px 160px;
+	background-position:0px 0px;
+	
+	width: 350px;
+	height: 250px;
+	position:relative;
+	top: -130px;
+	left: 10px;
+}
+
+
